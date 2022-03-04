@@ -1,2 +1,2 @@
-# TERRIFIER
-TERRIFIER: TrEnd pRediction on heteRogeneous InFormatIon nEtwoRks
+# TRENCHANT
+TRENCHANT: TRENd prediCtion on Heterogeneous informAtion NeTworks
