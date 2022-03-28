@@ -10,7 +10,7 @@ python setup.py install
 ```
 
 ## 5W1H
-5W1H extraction from 
+5W1H extraction from https://github.com/fhamborg/Giveme5W1H
 
 ## gcn
 GCN submodule based on https://github.com/dbusbridge/gcn_tutorial
