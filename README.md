@@ -38,10 +38,10 @@ networks with news from http://soybeansandcorn.com/ available at: https://drive.
 
 ## fine-tuned models
 fine-tuned models with entire network data available at hugging face with use guides as follows:
-https://huggingface.co/paulorvdc/sentencebert-fine-tuned-months-corn
-https://huggingface.co/paulorvdc/sentencebert-fine-tuned-months-soy
-https://huggingface.co/paulorvdc/sentencebert-fine-tuned-weeks-corn
-https://huggingface.co/paulorvdc/sentencebert-fine-tuned-weeks-soy
+<https://huggingface.co/paulorvdc/sentencebert-fine-tuned-months-corn>
+<https://huggingface.co/paulorvdc/sentencebert-fine-tuned-months-soy>
+<https://huggingface.co/paulorvdc/sentencebert-fine-tuned-weeks-corn>
+<https://huggingface.co/paulorvdc/sentencebert-fine-tuned-weeks-soy>
 
 ## wip
 updates with improvements new experiments, methods, data and usability features will be posted with the research progress.
