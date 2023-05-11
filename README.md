@@ -1,6 +1,21 @@
 # TRENCHANT
 Experiments for TRENCHANT and baselines' trend predictions
 
+## how to cite
+```
+@article{doCarmo_ReisFilho_Marcacini_2023, 
+	title={TRENCHANT: TRENd PrediCtion on Heterogeneous informAtion NeTworks}, 
+	volume={13}, 
+	url={https://sol.sbc.org.br/journals/index.php/jidm/article/view/2546}, 
+	DOI={10.5753/jidm.2022.2546}, 
+	number={6}, 
+	journal={Journal of Information and Data Management}, 
+	author={do Carmo, P. and Reis Filho, I. J. and Marcacini, R.}, 
+	year={2023}, 
+	month={Jan.} 
+}
+```
+
 ## GraphEmbeddings
 GraphEmbeddings submodule based on https://github.com/shenweichen/GraphEmbedding but the used algorithms works with tf 2.x
 ### install
